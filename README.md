@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm  a Student 
+I'm currently learning Python and Java
+
+
 
 
 ## 🌐 Socials:
